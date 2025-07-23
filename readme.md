@@ -11,7 +11,7 @@
 ## ✏️ Modify the Resource Pack
 
 1. Replace or add your font file inside:
-`assets/ratree/font/your-font.tff`
+`assets/minecraft/font/your-font.tff`
 2. Edit `default.json` to point to your `.ttf` file:
 
 ```json
