@@ -4,7 +4,7 @@
 
 1. Visit [Google Fonts](https://fonts.google.com/).
 2. Choose and download any font that supports your language (e.g. Thai).
-3. Extract the `.ttf` file from to `/assets/ratree/font`
+3. Extract the `.ttf` file from to `/assets/minecraft/font`
 
 ---
 
@@ -19,7 +19,7 @@
   "providers": [
     {
       "type": "ttf",
-      "file": "your-font.tff", <-----
+      "file": "minecraft:your-font.tff", <-----
       "shift": [0.0, 1.6],
       "size": 8.0,
       "oversample": 25.0
